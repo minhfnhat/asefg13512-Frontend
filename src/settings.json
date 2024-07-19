@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Experience top-tier solutions without breaking the bank. Elevate your business with our cost-effective offerings.",
+        "title": "Discover Affordable Innovation"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Experience top-tier solutions without breaking the bank. Elevate your business with our cost-effective offerings.",
+        "title": "Discover Affordable Innovation"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Experience top-tier solutions without breaking the bank. Elevate your business with our cost-effective offerings.",
+        "title": "Discover Affordable Innovation"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience top-tier solutions without breaking the bank. Elevate your business with our cost-effective offerings.",
+        "title": "Discover Affordable Innovation"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience top-tier solutions without breaking the bank. Elevate your business with our cost-effective offerings.",
+        "title": "Discover Affordable Innovation"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience top-tier solutions without breaking the bank. Elevate your business with our cost-effective offerings.",
+        "title": "Discover Affordable Innovation"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience top-tier solutions without breaking the bank. Elevate your business with our cost-effective offerings.",
+        "title": "Discover Affordable Innovation"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience top-tier solutions without breaking the bank. Elevate your business with our cost-effective offerings.",
+        "title": "Discover Affordable Innovation"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience top-tier solutions without breaking the bank. Elevate your business with our cost-effective offerings.",
+        "title": "Discover Affordable Innovation"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Discover Affordable Innovation",
+  "subtitle": "Experience top-tier solutions without breaking the bank. Elevate your business with our cost-effective offerings."
+}
